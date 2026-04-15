@@ -19,7 +19,7 @@ A production-ready dynamic feedback system designed for modern websites.
 
 Collect, manage, and display feedback in real time using Google Sheets as your data source.
 
-Simple. Scalable. Plug and play.
+Easy to set up and integrate into your project.
 
 ---
 
