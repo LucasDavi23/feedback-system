@@ -85,3 +85,11 @@ If you have any questions, feel free to reach out!
 
 [https://6625481749025.gumroad.com/l/bczeli ]
 
+## 📸 Preview
+
+![Preview](img-seller-1.png)
+![Preview](img-seller-2.png)
+![Preview](img-seller-3.png)
+![Preview](img-seller-4.png)
+![Preview](img-seller-5.png)
+
